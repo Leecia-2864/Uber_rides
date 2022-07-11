@@ -1,7 +1,7 @@
 # Uber_rides
-Getting the best clusters for an uber rider
-Project 8 - Machine learning Unsupervised -
-Felicia - Onwudinjo [DA, Paris & 07/22]
+## Getting the best clusters for an uber rider
+## Project 8 - Machine learning Unsupervised -
+## Felicia - Onwudinjo [DA, Paris & 07/22]
 
 Description
 In Module 3 we started with a new topic: machine learning unsupervised. The secound week focused on unsupervised learning models and using these to predict and classify given data correctly. The challenge in this weeks project was to use data about the position of cars of uber in New York in April, that inclued the date/time, position of the cars. And create a unsupervised learning model that can determine the clusters of the cars by the position, and try to predict in the future the position of the cars in a certain date/time.
